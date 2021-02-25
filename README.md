@@ -1,6 +1,6 @@
 # Learning Resources
 
-`Learning Resources for DevOps, SRE, Cloud & Engineering Management`
+`Learning Resources Google Cloud Solutions Architecture` --- Coming Up Soon!  // Meanwhile subscribe youtube.binpipe.org
 
 [![BINPIPE](https://img.shields.io/badge/BINPIPE-YouTube-red)](https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A?sub_confirmation=1)
 [![Learn DevOps!](https://img.shields.io/badge/BINPIPE-Learn--DevOps-orange)](https://github.com/BINPIPE/resources/blob/master/devops-lesson-plans.md)
